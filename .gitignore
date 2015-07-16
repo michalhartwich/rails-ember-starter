@@ -12,3 +12,7 @@
 !/log/.keep
 /tmp
 /config/database.yml
+/frontend/bower_components
+/frontend/node_modules
+/frontend/tmp
+/frontend/dist
