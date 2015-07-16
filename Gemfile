@@ -15,6 +15,7 @@ gem "sass-rails", "~> 4.0.3"
 gem "uglifier", ">= 1.3.0"
 
 group :development do
+  gem 'rename'
   gem "activeadmin", github: "gregbell/active_admin" # Until it"s 1.0.0
   gem "better_errors"
   gem "meta_request"
